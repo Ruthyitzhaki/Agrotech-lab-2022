@@ -13,7 +13,6 @@ To see our Arduino code use the next link - https://github.com/Ruthyitzhaki/Agro
 To see our full report with more data, explanations and relevant graphs use the next link - https://github.com/Ruthyitzhaki/Agrotech-lab-2022/blob/main/report/report.ipynb
 
 
-
 Cheers,
 
 Ruth, Peleg and Aviad
